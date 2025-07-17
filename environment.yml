@@ -1,0 +1,22 @@
+
+Top-k sentences are selected for final summary.
+
+---
+
+## 📈 Evaluation & Metrics
+
+We used **ROUGE** metrics:
+- ROUGE-1: 0.6939
+- ROUGE-2: 0.6223
+- ROUGE-L: 0.6836
+
+![ROUGE](https://github.com/MagbulBasha2/Textsummarization/blob/main/rouge_score_comparison.png)
+
+---
+
+## 🛠️ How to Run
+
+### 🔹 Clone the Repository
+```bash
+git clone https://github.com/MagbulBasha2/Textsummarization.git
+cd Textsummarization
